@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">003 005 121 UTS GA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul1">Lokasi Saat Ini</string>
+    <string name="judul2">Pencarian Lokasi</string>
+    <string name="judul3">Titik Lokasi Sekarang</string>
+    <string name="pelaporan">FORM PELAPORAN LOKASI KEBAKARAN</string>
+    <string name="service_unavailable">Service Unavailable</string>
+    <string name="not_found">404 Not Found</string>
+    <string name="home1">Lokasi Saat Ini</string>
+    <string name="invalid">Invalid</string>
+    <string name="izin_ditolak">Izin Ditolak</string>
+</resources>
