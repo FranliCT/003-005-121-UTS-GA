@@ -26,9 +26,9 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:minHeight="?actionBarSize"
-                android:textColor="@color/white"
-                android:text="110 017 012 UTS GA"
-                android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title" />
+                android:text="003 005 121 UTS GA"
+                android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
+                android:textColor="@color/white" />
 
         </androidx.appcompat.widget.Toolbar>
 
